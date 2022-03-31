@@ -1,3 +1,3 @@
 # AulasRuby
 
-Estudo da linguagem para futuras implementações de testes utilizando Cucumber, Httparty, Rspec etc.
+Estudo da linguagem Ruby para foco em testes.
